@@ -1,2 +1,2 @@
 # dingo
-Dingo is a SaaS Project Management System
+dingo is a SaaS Project Management System
